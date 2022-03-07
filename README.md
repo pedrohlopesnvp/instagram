@@ -1,3 +1,2 @@
-# instagram
-<img src="img/icone.png" width="20px" heigh="20px">
+# Instagram <img src="img/icone.png" width="25px" heigh="25px">
 Um clone da página de login do Instagram
